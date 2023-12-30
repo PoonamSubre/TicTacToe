@@ -1,0 +1,1 @@
+The Tic-Tac-Toe Game project is a web-based implementation of the classic two-player strategy game. Players take turns marking a 3x3 grid with symbols (X or O) with the objective of achieving three in a row horizontally, vertically, or diagonally.
